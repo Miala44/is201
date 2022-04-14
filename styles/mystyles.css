@@ -1,0 +1,105 @@
+/* Amelia Adams 4/14/2022  */
+body {
+    background-color: antiquewhite;
+    font-family: 'Times New Roman', Times, serif;
+    color: black;
+}
+
+h1 {
+    color:lemonchiffon;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+h2 {
+    color: indianred;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: bold;
+    font-size: xx-large;
+}
+
+h3 {
+    color: black;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size:large;
+}
+
+ol {
+    color: black;
+    font-family: Arial, Helvetica, sans-serif
+}
+
+ul {
+    font-size: medium;
+}
+
+.navfont {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: larger;
+    color: lemonchiffon;
+}
+.navfont:hover {
+    text-decoration: underline;
+    color: azure;
+}
+
+.boldfont {
+    color: lemonchiffon;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+}
+
+
+.link {
+    color: lemonchiffon;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+}
+
+.link:hover {
+    color: aliceblue;
+    text-decoration: underline;
+    font-weight: bolder;
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.centertext {
+    text-align: center;
+}
+
+.bold {
+    font-weight: bold;
+}
+
+.italic {
+    font-style: italic;
+}
+
+.underline {
+    text-decoration: underline;
+}
+
+.border {
+    border-style: solid;
+    background-color: aliceblue;
+}
+
+.button {
+    background-color: burlywood;
+    border: none;
+    color: black;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight: bold;
+    padding: 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    border-radius: 12px;
+}
